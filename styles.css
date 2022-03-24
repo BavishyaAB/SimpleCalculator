@@ -1,0 +1,13 @@
+.divcolor{
+    background-color: rgb(247, 243, 243);
+}
+.oprbtncolor{
+    background-color: rgb(241, 240, 240);
+    border-color: gray;
+}
+.outputfield{
+    color: white;
+    background-color: black;
+    text-align: end;
+    font-size: 30px;
+}
